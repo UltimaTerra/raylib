@@ -1,0 +1,9 @@
+project Raylib is
+    for Language use ("Ada", "C");
+    for Source_Dirs use ("src");
+    for Object_Dirs use "Build";
+    for Lib_Dir use "";
+
+
+
+end Raylib;
