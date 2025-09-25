@@ -6,6 +6,9 @@
 *.swo
 *~
 
+# Ignore examples
+examples/**
+
 # Ignore thumbnails created by windows
 Thumbs.db
 
