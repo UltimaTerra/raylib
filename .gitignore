@@ -128,3 +128,4 @@ raylib.com/
 # because fuck cmake.
 build/*
 cmake/*
+projects/*
