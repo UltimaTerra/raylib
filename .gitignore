@@ -122,3 +122,9 @@ tools/rexm/rexm
 # CI
 emsdk-cache/
 raylib.com/
+
+
+# Ignore build stuff
+# because fuck cmake.
+build/*
+cmake/*
